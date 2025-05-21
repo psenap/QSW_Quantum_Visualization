@@ -1,11 +1,13 @@
-# QSW_Quantum_Visualization
+# IEEE QSW Quantum States Visualization Paper 10
+
 
 ## Overview
 
-This repository contains **all the plots and code** in the respective `.ipynb` files that were used in the IEEE QSW Conference paper submission 10.
+This repository contains **all the plots and code** in the respective `.ipynb` files.
 
 * **`Lagos_Class3.ipynb`** contains all the plots for the images belonging to **class 3** of the MNIST image set, generated on the IBM Quantum machine **Lagos**.
 * **`Perth_Class9.ipynb`** contains all the plots for the images belonging to **class 9** of the MNIST image set, generated on the IBM Quantum machine **Perth**.
+* Similarly, the other `.ipynb` notebooks follow the same naming convention, each one corresponding to a different MNIST image class and the IBM Quantum machine used to generate its plots.
 
 The file **`quantum_vis_methodology.png`** provides the methodology figure used in the accompanying paper.
 
