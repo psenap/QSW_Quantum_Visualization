@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains **all the plots and code** in the respective `.ipynb` files.
+This repository contains **all the plots and code** in the respective `.ipynb` files that were used in the IEEE QSW Conference paper submission 10.
 
 * **`Lagos_Class3.ipynb`** contains all the plots for the images belonging to **class 3** of the MNIST image set, generated on the IBM Quantum machine **Lagos**.
 * **`Perth_Class9.ipynb`** contains all the plots for the images belonging to **class 9** of the MNIST image set, generated on the IBM Quantum machine **Perth**.
