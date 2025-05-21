@@ -40,7 +40,7 @@ Choose **one** of the following workflows:
 
 ```bash
 # Activate the environment
-conda activate quantum-mnist        # or source .venv/bin/activate
+conda activate QVIS        # or source .venv/bin/activate
 
 # Launch VS Code or JupyterLab
 code .                              # VS Code – then open the notebook
